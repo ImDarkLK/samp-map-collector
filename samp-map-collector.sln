@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "samp-map-collector", "samp-map-collector.vcxproj", "{72A72F11-045C-4DCA-AB15-EA56D6C2376A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A72F11-045C-4DCA-AB15-EA56D6C2376A}.Debug|x86.ActiveCfg = Debug|Win32
+		{72A72F11-045C-4DCA-AB15-EA56D6C2376A}.Debug|x86.Build.0 = Debug|Win32
+		{72A72F11-045C-4DCA-AB15-EA56D6C2376A}.Release|x86.ActiveCfg = Release|Win32
+		{72A72F11-045C-4DCA-AB15-EA56D6C2376A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {054495B8-F308-4A43-87DA-D791EBA13F37}
+	EndGlobalSection
+EndGlobal
